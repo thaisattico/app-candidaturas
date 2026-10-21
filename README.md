@@ -18,4 +18,9 @@ VsCode
 
 ## Diagrama do banco de dados
 
-![Diagrama do banco de dados](docs/imagens/diagrama.png)
+<details>
+  <summary>Visualizar diagrama do banco de dados</summary>
+
+  ![Diagrama do banco de dados](docs/imagens/diagrama.png)
+
+</details>
